@@ -1,0 +1,6 @@
+[TermInfoDB]
+git-tree-sha1 = "08f4d93282011363a727ec1c7e524256ebd61ac4"
+
+    [[TermInfoDB.download]]
+    sha256 = "dabf36cfa936c4616acd41b29533e3529a53292253584e9700fe20bb3dca02d9"
+    url = "https://github.com/JuliaBinaryWrappers/TermInfoDB_jll.jl/releases/download/TermInfoDB-v2023.12.9+0/TermInfoDB.v2023.12.9.any.tar.gz"
